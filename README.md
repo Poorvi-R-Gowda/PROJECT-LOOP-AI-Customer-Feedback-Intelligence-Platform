@@ -2,7 +2,7 @@
 
 > **Zidio Web Development Internship Team Project**  
 > **Mentor**: Shaurya Pandey  
-> **Repository**: [https://github.com/kantimohanthy/zidio-Web-dev](https://github.com/kantimohanthy/zidio-Web-dev)  
+> **Repository**: [https://github.com/Poorvi-R-Gowda/PROJECT-LOOP-AI-Customer-Feedback-Intelligence-Platform](https://github.com/Poorvi-R-Gowda/PROJECT-LOOP-AI-Customer-Feedback-Intelligence-Platform)  
 > **Live Production URL**: `[INSERT_YOUR_VERCEL_DEPLOYMENT_URL_HERE]` *(e.g. https://project-loop.vercel.app)*
 
 PROJECT LOOP is a full-stack, multi-tenant B2B SaaS web application designed to collect, organize, analyze, search, and act on customer feedback across multiple ingestion channels. The platform transforms unstructured customer feedback into actionable business intelligence through automated sentiment classification, theme and topic extraction, emerging trend velocity detection, grounded AI question answering ("Ask LOOP"), executive analytics dashboards, and Voice-of-Customer (VoC) reporting.
